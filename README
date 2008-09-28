@@ -6,3 +6,10 @@ SlimTimer API. This application makes it possible to time your tasks from the de
 Please note that this application is not currently ready for primetime. 
 If you use it, you'll probably have to make it look the way you want, 
 etc.
+
+Still TODO:
+
+1) Complete specs - doubtful that I can spec out Shoes itself, but all 
+other functionality should be specable.
+
+2) Work on the look and feel. This thing is ugly as hell at the moment.
