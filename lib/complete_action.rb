@@ -4,7 +4,7 @@ class CompleteAction < Action
     continue = app.confirm("Are you sure you want to complete this task?")
     if continue
       if complete(obj)
-        app.alert("Started #{obj.name}")
+        app.alert("Completed #{obj.name}.")
         app.visit '/'
       end
     else
